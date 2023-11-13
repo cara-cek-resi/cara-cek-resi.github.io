@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://cara-cek-resi.github.io/sitemap.xml
